@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![AI](https://img.shields.io/badge/AI-Project-green)
 
 <!--
 **Kavishka2401/Kavishka2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
