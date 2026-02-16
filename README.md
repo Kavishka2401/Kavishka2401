@@ -1,6 +1,6 @@
 <!-- Banner / Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Kavishka+👋;AI+%26+Data+Science+Student;Building+Smart+Projects;Future+Tech+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I%27m+Kavishka;Data+%26+AI+Student&center=true&width=500&height=50">
 </p>
 
 ---
