@@ -9,7 +9,6 @@
 
 🎓 AI & Data Science student  
 🤖 Interested in Machine Learning & AI  
-🚀 Always learning and building new projects
 
 ---
 
@@ -44,8 +43,12 @@ An AI-powered system that includes:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavishka2401&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavishka2401&layout=compact&theme=radical" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kavishka2401&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kavishka2401&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavishka2401&theme=tokyonight">
 </p>
 
 ---
@@ -60,15 +63,7 @@ An AI-powered system that includes:
 
 # 🐍 Contribution Snake Animation
 
-![snake gif](https://github.com/Kavishka2401/Kavishka2401/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavishka2401&theme=react-dark">
-</p>
+![snake gif](https://raw.githubusercontent.com/Kavishka2401/Kavishka2401/output/github-contribution-grid-snake.svg)
 
 ---
 
