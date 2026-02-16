@@ -21,6 +21,8 @@
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </p>
 
@@ -58,12 +60,6 @@ An AI-powered system that includes:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Kavishka2401&theme=radical">
 </p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-![snake gif](https://raw.githubusercontent.com/Kavishka2401/Kavishka2401/output/github-contribution-grid-snake.svg)
 
 ---
 
