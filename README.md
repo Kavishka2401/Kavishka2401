@@ -1,6 +1,91 @@
-## Hi there 👋
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![AI](https://img.shields.io/badge/AI-Project-green)
+<!-- Banner / Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Kavishka+👋;AI+%26+Data+Science+Student;Building+Smart+Projects;Future+Tech+Engineer&center=true&width=500&height=50">
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 AI & Data Science student  
+🤖 Interested in Machine Learning & AI  
+🚀 Always learning and building new projects
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## 🌿 GPTea – Smart Tea AI System
+
+An AI-powered system that includes:
+
+✔ Tea yield prediction  
+✔ Tea disease detection  
+✔ Tea chatbot assistant  
+
+> Goal: Use AI to improve tea agriculture and decision-making.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavishka2401&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavishka2401&layout=compact&theme=radical" height="150">
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kavishka2401&theme=radical">
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+![snake gif](https://github.com/Kavishka2401/Kavishka2401/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavishka2401&theme=react-dark">
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kavishka-karunagaran-a76a82332/)
+
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
 
 <!--
 **Kavishka2401/Kavishka2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
